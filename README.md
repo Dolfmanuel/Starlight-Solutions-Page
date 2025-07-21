@@ -1,9 +1,8 @@
 # 🌟 Starlight Solutions
 
 **Empowering Education for the 21st Century**  
-[Website Live Demo](https://your-vercel-link.vercel.app) | [Linktree](https://linktr.ee/Sire_dolfman)
+ [Linktree](https://linktr.ee/Sire_dolfman)
 
----
 
 ## 📚 About Us
 
@@ -13,8 +12,6 @@ We specialize in:
 - 📐 Academic tutoring for STEM subjects (IGCSE, A-Levels, WAEC, SAT, ACT, GCSE)
 - 💻 Tech and digital skills training (Python, Data Science, Prompt Engineering, SQL)
 - 🧠 Kids digital literacy programs (Coding, Creative Tech, Digital Awareness)
-
----
 
 ## 🔧 Website Features
 
@@ -26,7 +23,6 @@ We specialize in:
 - 📱 Fully responsive design with TailwindCSS
 - 🔗 Integrated social media + Linktree
 
----
 
 ## 🚀 Tech Stack
 
@@ -37,7 +33,5 @@ We specialize in:
 - **Hosting**: [Vercel](https://vercel.com/)
 - **Deployment Ready** ✅
 
----
 
-## 📂 Folder Structure (Vercel-ready)
 
